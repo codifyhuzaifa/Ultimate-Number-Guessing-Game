@@ -11,7 +11,7 @@
 using namespace std;
 
 int main() {
-	// Variable declarations and intizalizations for first game
+    // Variable declarations and intizalizations for first game
     char choice;
     int left = 0;
     int player1attemptsleft = 0;
